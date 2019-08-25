@@ -1,0 +1,14 @@
+c:\Users\Administrator\Desktop\Mazhar - Course Project\bin\Debug\netcoreapp2.1\Mazhar - Course Project.deps.json
+c:\Users\Administrator\Desktop\Mazhar - Course Project\bin\Debug\netcoreapp2.1\Mazhar - Course Project.runtimeconfig.json
+c:\Users\Administrator\Desktop\Mazhar - Course Project\bin\Debug\netcoreapp2.1\Mazhar - Course Project.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\Mazhar - Course Project\bin\Debug\netcoreapp2.1\Mazhar - Course Project.dll
+c:\Users\Administrator\Desktop\Mazhar - Course Project\bin\Debug\netcoreapp2.1\Mazhar - Course Project.pdb
+c:\Users\Administrator\Desktop\Mazhar - Course Project\obj\Debug\netcoreapp2.1\Mazhar - Course Project.csprojAssemblyReference.cache
+c:\Users\Administrator\Desktop\Mazhar - Course Project\obj\Debug\netcoreapp2.1\Mazhar - Course Project.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\Mazhar - Course Project\obj\Debug\netcoreapp2.1\Mazhar - Course Project.RazorAssemblyInfo.cache
+c:\Users\Administrator\Desktop\Mazhar - Course Project\obj\Debug\netcoreapp2.1\Mazhar - Course Project.RazorAssemblyInfo.cs
+c:\Users\Administrator\Desktop\Mazhar - Course Project\obj\Debug\netcoreapp2.1\Mazhar - Course Project.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\Mazhar - Course Project\obj\Debug\netcoreapp2.1\Mazhar - Course Project.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\Mazhar - Course Project\obj\Debug\netcoreapp2.1\Mazhar - Course Project.RazorTargetAssemblyInfo.cache
+c:\Users\Administrator\Desktop\Mazhar - Course Project\obj\Debug\netcoreapp2.1\Mazhar - Course Project.dll
+c:\Users\Administrator\Desktop\Mazhar - Course Project\obj\Debug\netcoreapp2.1\Mazhar - Course Project.pdb
