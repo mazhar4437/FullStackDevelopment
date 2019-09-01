@@ -23,7 +23,8 @@ namespace Mazhar___Course_Project
             Configuration = configuration;
         }
 
-        public IConfiguration Configuration { get; }
+    
+                public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)  // serivces we add 
@@ -33,19 +34,23 @@ namespace Mazhar___Course_Project
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env, DataContext _db)
         {
+            
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
             }
             else
             {
-            //    app.UseHsts();
+                
+               app.UseHsts();
             }
 
-           // app.UseHttpsRedirection();
+         app.UseHttpsRedirection();
             app.UseMvc();
+            
+            _db.Database.Migrate();
         }
     }
 }

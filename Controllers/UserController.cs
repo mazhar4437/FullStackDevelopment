@@ -95,6 +95,21 @@ namespace Mazhar___Course_Project.Controllers
               return BadRequest("Invalid ID");
             }
         }
+
+
+ [HttpPost("login")]
+        public ActionResult<bool> login(LoginDTO dto)
+        {
+            var user = DataContext_db.users.FirstOrDefault(x =>
+            x.email == dto.email
+            && x.password == dto.password);
+
+            if (user != null)
+                return Ok(true);
+
+            return BadRequest(false);
+        }
+
                        
     }
 }
