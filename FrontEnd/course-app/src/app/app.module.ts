@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { LoginComponent } from './login/login.component';
 import { HomeComponent } from './home/home.component';
+import { ReactiveFormsModule, FormsModule } from "@angular/forms";
 import {
   MatFormFieldModule,
   MatInputModule,
@@ -53,7 +54,9 @@ import { UserComponent } from './user/user.component';
     MatPaginatorModule,
     MatSelectModule,
     MatRadioModule,
-    MatMenuModule
+    MatMenuModule,
+    ReactiveFormsModule, 
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
